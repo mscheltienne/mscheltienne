@@ -1,3 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mscheltienne)](https://github.com/anuraghazra/github-readme-stats)
+<table> 
+<tr style='border:0px'>
+<td>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mscheltienne&show_icons=true&theme=slateorange" /></td>
+<td>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscheltienne&layout=compact&theme=slateorange" /></td>
+</tr>
+</table>
 
 - 📫 How to reach me: mathieu.scheltienne@fcbg.ch
