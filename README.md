@@ -5,6 +5,6 @@
 </tr>
 </table>
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000-0001-8316-7436f5?style=flat-square.svg)](https://orcid.org/0000-0001-8316-7436)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8316--7436-f5)](https://orcid.org/0000-0001-8316-7436)
 
 - 📫 How to reach me: mathieu.scheltienne@fcbg.ch
